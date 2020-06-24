@@ -1,6 +1,5 @@
-# mediumProject
-
-A new Flutter project.
+# Flutter: How to uploads multiple files/Images to PHP Server
+For more information go to: https://medium.com/@boomerz7777/flutter-how-to-uploads-multiple-files-images-to-php-server-d13b2b3adc31
 
 ## Getting Started
 
